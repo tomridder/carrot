@@ -40,10 +40,10 @@
   <tr>
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/poe.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://poe.com/" target="_blank"> Poe.com </a> </td>
+    <td><a href="https://poe.com/" target="_blank"> tomchat </a> </td>
     <td>🛫🔑😄⭐</td>
     <td></td> 
-    <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://tomchat.uk/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -84,7 +84,7 @@
 
   <tr>
     <td>6.</td>
-    <td><img src="https://u1.dl0.cn/icon/openailogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><img src="https://chatgpt.kiask.xyz/android-chrome-512x512.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://ai.berlin4h.top/" target="_blank"> Berlin4h.top </a> </td>
     <td>🛫😄</td>
     <td></td> 
