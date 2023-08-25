@@ -69,7 +69,7 @@
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="http://chat2.aiyunos.top" target="_blank"> Aiyunos.top </a> </td>
     <td>😄⭐</td>
-    <td></td> 
+    <td>AI绘画</td> 
     <td><a href="http://chat2.aiyunos.top" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -87,7 +87,7 @@
     <td><img src="https://chatgpt.kiask.xyz/android-chrome-512x512.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://ai.berlin4h.top/" target="_blank"> Berlin4h.top </a> </td>
     <td>🛫😄</td>
-    <td></td> 
+    <td>GPT4</td> 
     <td><a href="https://ai.berlin4h.top/" target="_blank">🔗 </a> </td> 
   </tr>
 
