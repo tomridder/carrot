@@ -40,7 +40,7 @@
   <tr>
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/poe.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://tomchat.uk/" target="_blank"> tomchat.uk </a> </td>
+    <td><a href="https://tomchat.uk/" target="_blank"> tomchat.org </a> </td>
     <td>🔑😄⭐</td>
     <td>GPT4 AI绘画</td> 
     <td><a href="https://www.tomchat.org/" target="_blank">🔗 </a> </td> 
