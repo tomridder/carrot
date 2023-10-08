@@ -43,31 +43,31 @@
     <td><a href="https://tomchat.uk/" target="_blank"> tomchat.uk </a> </td>
     <td>🔑😄⭐</td>
     <td>GPT4 AI绘画</td> 
-    <td><a href="https://www.tomchat.uk/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://www.tomchat.org/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>2.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://free.anzz.top/" target="_blank"> Anzz.top </a> </td>
+    <td><a href="https://free.anzz1.top/" target="_blank"> Anzz1.top </a> </td>
     <td>🛫😄⭐ </td>
     <td> </td> 
-    <td><a href="https://free.anzz.top/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://free.anzz1.top/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>3.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://c.binjie.fun/" target="_blank"> Binjie.fun </a> </td>
+    <td><a href="https://c.binjie2.fun/" target="_blank"> Binjie2.fun </a> </td>
     <td>😄⭐</td>
     <td></td> 
-    <td><a href="https://c.binjie.fun/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://c.binjie2.fun/" target="_blank">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>4.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="http://chat2.aiyunos.top" target="_blank"> Aiyunos.top </a> </td>
+    <td><a href="http://chat2.aiyunos1.top" target="_blank"> Aiyuno.top </a> </td>
     <td>😄⭐</td>
     <td>AI绘画</td> 
     <td><a href="http://chat2.aiyunos.top" target="_blank">🔗 </a> </td> 
